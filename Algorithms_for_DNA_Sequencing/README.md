@@ -1,1 +1,1 @@
-This folder contains the files with Python codes written by me during the coursera course named "Algorithms for DNA Sequencing" offered by Johns Hopkins University.
+This folder contains the files with Python codes written by me during practical and exam for the coursera course named "Algorithms for DNA Sequencing" offered by Johns Hopkins University.
